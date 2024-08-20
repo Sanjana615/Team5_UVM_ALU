@@ -15,5 +15,6 @@
 - Lanwin Dsouza
 
 ## Verification Architecture
-(Testbench Architecture.png)
+![Testbench Architecture](https://github.com/user-attachments/assets/e5ece5b6-ff7d-41c8-9a5c-e64626b80cc3)
+
 
