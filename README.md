@@ -15,5 +15,5 @@
 - Lanwin Dsouza
 
 ## Verification Architecture
-![Testbench Architecture](Testbench Architecture.png)
+(Testbench Architecture.png)
 
