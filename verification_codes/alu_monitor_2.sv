@@ -5,7 +5,7 @@
  // Created Date : 2024
  // Version      : V1.0
  //------------------------------------------------------------------------------
- // Copyright    : 2024(c) Manipal Center of Excellence. All rights reserved.
+// Copyright    : 2024(c) Manipal Center of Excellence. All rights reserved. 
  //------------------------------------------------------------------------------
  
 class alu_monitor_2 extends uvm_monitor;
